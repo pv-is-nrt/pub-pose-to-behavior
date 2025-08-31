@@ -1,0 +1,14 @@
+animal_id,video_id,track,total_frames,dominant_behavior,sleeping_frames,feeding_frames,crawling_frames
+1_track_1,1,track_1,1647,feeding,0,1647,0
+2_track_0,2,track_0,1279,feeding,0,1192,87
+2_track_1,2,track_1,1265,feeding,357,670,238
+3_track_0,3,track_0,1025,sleeping,954,0,71
+3_track_1,3,track_1,980,crawling,8,194,778
+4_track_0,4,track_0,911,sleeping,459,321,131
+5_track_0,5,track_0,771,sleeping,724,0,47
+5_track_1,5,track_1,898,crawling,66,184,648
+6_track_0,6,track_0,1455,feeding,32,1004,419
+7_track_0,7,track_0,1588,feeding,428,1160,0
+8_track_0,8,track_0,1588,feeding,588,1000,0
+9_track_0,9,track_0,1571,feeding,0,1234,337
+10_track_0,10,track_0,1574,crawling,201,559,814
